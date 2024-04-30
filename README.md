@@ -8,4 +8,4 @@ The given SQL script creates and generates schemas in the Maven Market database
 
 PDF Link: https://drive.google.com/file/d/1A61ZPy_g2LPhjnnBjoOnQ72Et5nydZLj/view?usp=sharing
 
-PPT Link: https://drive.google.com/file/d/1SRateZPA5qGrmAQKWa9CpU0U_OXWl8Q1/view?usp=sharing
+PPT Link: https://drive.google.com/file/d/15OfDIb3g8nN7Un-dRjGSHvxIjlWgh3Se/view?usp=sharing
