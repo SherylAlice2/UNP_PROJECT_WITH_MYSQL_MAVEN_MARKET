@@ -1,6 +1,6 @@
 # UNP_PROJECT_WITH_MYSQL_MAVEN_MARKET
 
-Completed this project as a part of my BI with PowerBI Internship with United Network of Professionals (UNP).
+Completed this project as a part of my SQl with MySQL Internship with United Network of Professionals (UNP).
 
 Key Highlights:
 
